@@ -11,6 +11,13 @@ text-align:center;
 padding:20px;
 }
 
+.logo{
+width:180px;
+display:block;
+margin:auto;
+margin-bottom:10px;
+}
+
 nav{
 background:black;
 text-align:center;
@@ -94,4 +101,4 @@ background:black;
 text-align:center;
 padding:15px;
 margin-top:30px;
-  }
+}
